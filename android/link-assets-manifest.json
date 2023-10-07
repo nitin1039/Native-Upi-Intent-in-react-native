@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Creepster-Regular.ttf",
+      "sha1": "7d00ea50354f1d3364e6403054254586fbafc533"
+    },
+    {
+      "path": "assets/fonts/DancingScript-VariableFont_wght.ttf",
+      "sha1": "80f13e7575ec59a51b7fdc42bb0b9d7a34439123"
+    },
+    {
+      "path": "assets/fonts/Fuggles-Regular.ttf",
+      "sha1": "72c3867ca1584c2d6708395375321c081751d54d"
+    },
+    {
+      "path": "assets/fonts/Orbitron-VariableFont_wght.ttf",
+      "sha1": "51441780e1af77d5bdbfe1fffad3a90644d8ee76"
+    },
+    {
+      "path": "assets/fonts/PermanentMarker-Regular.ttf",
+      "sha1": "bc40bfbc7eb7715af82b136429848a3c7a83a2b3"
+    },
+    {
+      "path": "assets/fonts/PixelifySans-VariableFont_wght.ttf",
+      "sha1": "4a2d76e87c9d3754109a9400800dace60b85aa42"
+    }
+  ]
+}
